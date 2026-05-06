@@ -121,7 +121,7 @@ export const config = {
             title: "HealthMate",
             category: "AI / LLM",
            technologies: "Python, FastAPI, Node.js, React.js, Groq LLaMA-4, LangChain, FAISS, Whisper, ElevenLabs",
-            image: "/images/healthmate.png",
+            image: "https://i.ibb.co/MkBLjTLt/Whats-App-Image-2026-05-06-at-20-04-28.jpg",
             description: "HealthMate is an AI-powered public health assistant that provides real-time medical guidance using voice, image, and text inputs, leveraging LLMs with RAG for accurate and context-aware responses."
         },
         {
@@ -129,57 +129,57 @@ export const config = {
             title: "WhatsUp",
             category: "Full Stack / AI",
             technologies: "MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Daisy UI, Zustand, Stream Chat API, Stream Video SDK",
-            image: "/images/votechain.png",
+            image: "https://i.ibb.co/d0fNxs3n/Screenshot-2026-05-06-201514.png",
             description: "WhatsUp is a real-time language exchange platform that enables users worldwide to connect via chat and video calls, featuring secure authentication, email verification, and seamless communication using Stream APIs."
            },
         {
             id: 3,
-            title: "EIE - Earthquake Impact Estimator",
-            category: "IoT / Hardware",
-            technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
-            image: "/images/eie.png",
-            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
+            title: "Vendor & Sales Inventory Analysis System",
+            category: "Data Analysis",
+            technologies: "Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, SQL, ETL, EDA",
+            image: "https://i.ibb.co/whXDhtxk/Screenshot-2026-05-06-202420.png",
+            description: "A data analytics project that builds an end-to-end ETL pipeline to integrate vendor, sales, and inventory data into a unified warehouse, enabling exploratory analysis and actionable insights on vendor performance, profitability, and inventory optimization."
         },
-        {
-            id: 4,
-            title: "GameKroy",
-            category: "Full Stack",
-            technologies: "React, Node.js, MongoDB, Express, Stripe, TailwindCSS",
-            image: "/images/gamekroy.png",
-            description: "A full-featured e-commerce platform for gaming products. Includes user authentication, product catalog, shopping cart, secure payments, order tracking, and admin dashboard."
-        },
-        {
-            id: 5,
-            title: "RedxChess",
-            category: "AI / Game Engine",
-            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
-            image: "/images/redxchess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation."
-        },
-        {
-            id: 6,
-            title: "Floodhub",
-            category: "AI / ML",
-            technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
-            image: "/images/floodhub.png",
-            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
-        },
-        {
-            id: 7,
-            title: "Phoenix",
-            category: "AI Assistant",
-            technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
-            image: "/images/phoenix.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
-        },
-        {
-            id: 8,
-            title: "HekTools",
-            category: "Security / Android",
-            technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
-            image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes."
-        }
+        // {
+        //     id: 4,
+        //     title: "GameKroy",
+        //     category: "Full Stack",
+        //     technologies: "React, Node.js, MongoDB, Express, Stripe, TailwindCSS",
+        //     image: "/images/gamekroy.png",
+        //     description: "A full-featured e-commerce platform for gaming products. Includes user authentication, product catalog, shopping cart, secure payments, order tracking, and admin dashboard."
+        // },
+        // {
+        //     id: 5,
+        //     title: "RedxChess",
+        //     category: "AI / Game Engine",
+        //     technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
+        //     image: "/images/redxchess.png",
+        //     description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation."
+        // },
+        // {
+        //     id: 6,
+        //     title: "Floodhub",
+        //     category: "AI / ML",
+        //     technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
+        //     image: "/images/floodhub.png",
+        //     description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
+        // },
+        // {
+        //     id: 7,
+        //     title: "Phoenix",
+        //     category: "AI Assistant",
+        //     technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
+        //     image: "/images/phoenix.png",
+        //     description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
+        // },
+        // {
+        //     id: 8,
+        //     title: "HekTools",
+        //     category: "Security / Android",
+        //     technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
+        //     image: "/images/hektools.png",
+        //     description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes."
+        // }
     ],
     contact: {
         email: "swaraj93310@gmail.com",
