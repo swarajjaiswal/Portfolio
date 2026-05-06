@@ -118,20 +118,20 @@ export const config = {
     projects: [
         {
             id: 1,
-            title: "Drishti",
+            title: "HealthMate",
             category: "AI / LLM",
-            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
-            image: "/images/drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
+           technologies: "Python, FastAPI, Node.js, React.js, Groq LLaMA-4, LangChain, FAISS, Whisper, ElevenLabs",
+            image: "/images/healthmate.png",
+            description: "HealthMate is an AI-powered public health assistant that provides real-time medical guidance using voice, image, and text inputs, leveraging LLMs with RAG for accurate and context-aware responses."
         },
         {
             id: 2,
-            title: "VoteChain",
-            category: "Blockchain",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
+            title: "WhatsUp",
+            category: "Full Stack / AI",
+            technologies: "MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Daisy UI, Zustand, Stream Chat API, Stream Video SDK",
             image: "/images/votechain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking."
-        },
+            description: "WhatsUp is a real-time language exchange platform that enables users worldwide to connect via chat and video calls, featuring secure authentication, email verification, and seamless communication using Stream APIs."
+           },
         {
             id: 3,
             title: "EIE - Earthquake Impact Estimator",
