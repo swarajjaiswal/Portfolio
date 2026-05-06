@@ -191,13 +191,13 @@ export const config = {
     },
     skills: {
                 design: {
-            title: "FULL-STACK",
+            title: "FULL-STACK DEV",
             description: "Modern web development & scalable applications",
             details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
             tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
         },
        develop: {
-    title: "DATA ANALYST",
+    title: "DATA ANALYSIS",
     description: "Transforming data into actionable insights",
     details: "Analyzing structured and unstructured data to uncover trends and support data-driven decision-making. Experienced in data cleaning, exploratory data analysis (EDA), statistical analysis, dashboard creation, and reporting using modern analytical tools.",
     tools: ["Python", "Pandas", "NumPy", "SQL", "Power BI", "Excel", "Matplotlib", "Seaborn", "Data Visualization", "Statistical Analysis"]
